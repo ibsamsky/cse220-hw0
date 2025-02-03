@@ -63,3 +63,5 @@ tests/actual_outputs
 tests/expected_outputs
 *.log
 test_detail.xml
+
+peda-session*
