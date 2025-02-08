@@ -1,4 +1,2 @@
 BasedOnStyle: LLVM
 IndentWidth: 4
-UseTab: AlignWithSpaces
-TabWidth: 4
